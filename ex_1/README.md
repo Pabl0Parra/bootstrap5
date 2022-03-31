@@ -6,7 +6,7 @@
 
 In this exercise we begin with the main part, which is the content that users see when they first enter the web:
 
-![alt text](https://github.com/Pabl0Parra/bootstrap5/blob/ex_1/imagenes/desktop-active-states.jpg?raw=true)
+![alt text](https://github.com/Pabl0Parra/bootstrap5/blob/main/ex_1/Dise%C3%B1o/desktop-preview.jpg?raw=true)
 
 To do this you will need to implement:
 
